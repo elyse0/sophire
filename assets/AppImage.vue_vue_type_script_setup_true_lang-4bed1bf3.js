@@ -1,0 +1,1 @@
+import{d as a,v as s,x as c,o as n,g as o}from"./index-a37f8b25.js";const i=["alt"],m=a({__name:"AppImage",props:{src:{type:String,required:!0},alt:{type:String,default:""}},setup(e){const t=e;return(l,p)=>{const r=s("lazy");return c((n(),o("img",{alt:e.alt},null,8,i)),[[r,t.src]])}}});export{m as _};
