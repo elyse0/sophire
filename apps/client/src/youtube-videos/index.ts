@@ -20,6 +20,7 @@ import WkIL7BX_1rc from './subtitles-WkIL7BX_1rc.json';
 import SQ23t9YDl_U from './subtitles-SQ23t9YDl_U.json';
 import _VxLOj3TB5k from './subtitles-_VxLOj3TB5k.json';
 import _Yoj44GXF9g from './subtitles--Yoj44GXF9g.json';
+import asw_yEg_Wrw from './subtitles-asw-yEg_Wrw.json';
 
 const youtubeVideos: Record<string, YoutubeVideo> = {
     jmoe4Fz0sBY: {
@@ -114,9 +115,14 @@ const youtubeVideos: Record<string, YoutubeVideo> = {
         captions: _VxLOj3TB5k,
     },
     '-Yoj44GXF9g': {
-        title: '听说你 (男版) · WiFi歪歪',
+        title: '听说你 (男版) - WiFi歪歪',
         thumbnailUrl: 'https://i3.ytimg.com/vi/-Yoj44GXF9g/hqdefault.jpg',
         captions: _Yoj44GXF9g,
+    },
+    'asw-yEg_Wrw': {
+        title: '晚风告白 - 星野',
+        thumbnailUrl: 'https://i3.ytimg.com/vi/asw-yEg_Wrw/hqdefault.jpg',
+        captions: asw_yEg_Wrw,
     },
 };
 
