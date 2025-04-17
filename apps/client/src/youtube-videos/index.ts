@@ -19,6 +19,7 @@ import _iSRDIaNFNg from './subtitles--iSRDIaNFNg.json';
 import WkIL7BX_1rc from './subtitles-WkIL7BX_1rc.json';
 import SQ23t9YDl_U from './subtitles-SQ23t9YDl_U.json';
 import _VxLOj3TB5k from './subtitles-_VxLOj3TB5k.json';
+import _Yoj44GXF9g from './subtitles--Yoj44GXF9g.json';
 
 const youtubeVideos: Record<string, YoutubeVideo> = {
     jmoe4Fz0sBY: {
@@ -111,7 +112,12 @@ const youtubeVideos: Record<string, YoutubeVideo> = {
         title: '不該 - Bu Gai (feat. aMEI)',
         thumbnailUrl: 'https://i3.ytimg.com/vi/_VxLOj3TB5k/hqdefault.jpg',
         captions: _VxLOj3TB5k,
-    }
+    },
+    '-Yoj44GXF9g': {
+        title: '听说你 (男版) · WiFi歪歪',
+        thumbnailUrl: 'https://i3.ytimg.com/vi/-Yoj44GXF9g/hqdefault.jpg',
+        captions: _Yoj44GXF9g,
+    },
 };
 
 export default youtubeVideos;

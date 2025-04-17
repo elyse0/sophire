@@ -1,0 +1,1261 @@
+[
+    {
+        "start": 1230,
+        "end": 4320,
+        "captions": {
+            "en": "Heard that you did for him",
+            "hanzi": [
+                "听说",
+                "你",
+                "为",
+                "他",
+                "做",
+                "的"
+            ],
+            "pinyin": [
+                "tīng​shuō",
+                "nǐ",
+                "wèi",
+                "tā",
+                "zuò",
+                "de"
+            ]
+        }
+    },
+    {
+        "start": 4320,
+        "end": 8310,
+        "captions": {
+            "en": "Each item is what I once longed for but couldn't get",
+            "hanzi": [
+                "件",
+                "件",
+                "是",
+                "我",
+                " ",
+                "曾经",
+                "求",
+                "而",
+                "不得"
+            ],
+            "pinyin": [
+                "jiàn",
+                "jiàn",
+                "shì",
+                "wǒ",
+                " ",
+                "céng​jīng",
+                "qiú",
+                "ér",
+                "bù​dé"
+            ]
+        }
+    },
+    {
+        "start": 8310,
+        "end": 11430,
+        "captions": {
+            "en": "The fireworks that I couldn't reach",
+            "hanzi": [
+                "我",
+                "够不着",
+                "的",
+                "烟火"
+            ],
+            "pinyin": [
+                "wǒ",
+                "gòu​bu​zháo",
+                "de",
+                "yān​huǒ"
+            ]
+        }
+    },
+    {
+        "start": 11430,
+        "end": 15420,
+        "captions": {
+            "en": "Fell on someone else's window",
+            "hanzi": [
+                "偏偏",
+                "降落",
+                " ",
+                "在",
+                "别人",
+                "窗口"
+            ],
+            "pinyin": [
+                "piān​piān",
+                "jiàng​luò",
+                " ",
+                "zài",
+                "bié​ren",
+                "chuāng​kǒu"
+            ]
+        }
+    },
+    {
+        "start": 15420,
+        "end": 17970,
+        "captions": {
+            "en": "That night's wind",
+            "hanzi": [
+                "那晚",
+                "的",
+                "风"
+            ],
+            "pinyin": [
+                "nà wǎn",
+                "de",
+                "fēng"
+            ]
+        }
+    },
+    {
+        "start": 17970,
+        "end": 31620,
+        "captions": {
+            "en": "Still hasn't cooled down to this day",
+            "hanzi": [
+                "吹",
+                "到",
+                "今天",
+                "都",
+                "还",
+                "未凉",
+                "透"
+            ],
+            "pinyin": [
+                "chuī",
+                "dào",
+                "jīn​tiān",
+                "dōu",
+                "hái",
+                "wèi liáng",
+                "tòu"
+            ]
+        }
+    },
+    {
+        "start": 31620,
+        "end": 35220,
+        "captions": {
+            "en": "Like a soap bubble, suspended in the air",
+            "hanzi": [
+                "像",
+                "泡沫",
+                " ",
+                "悬浮",
+                "着"
+            ],
+            "pinyin": [
+                "xiàng",
+                "pào​mò",
+                " ",
+                "xuán​fú",
+                "zhe"
+            ]
+        }
+    },
+    {
+        "start": 35220,
+        "end": 38700,
+        "captions": {
+            "en": "Floating carefully in the wind",
+            "hanzi": [
+                "在",
+                "风里",
+                "小心",
+                "穿梭"
+            ],
+            "pinyin": [
+                "zài",
+                "fēng lǐ",
+                "xiǎo​xīn",
+                "chuān​suō"
+            ]
+        }
+    },
+    {
+        "start": 38700,
+        "end": 42330,
+        "captions": {
+            "en": "I also once obsessed with",
+            "hanzi": [
+                "我",
+                "也",
+                "曾",
+                " ",
+                "痴迷",
+                "着"
+            ],
+            "pinyin": [
+                "wǒ",
+                "yě",
+                "céng",
+                " ",
+                "chī​mí",
+                "zhe"
+            ]
+        }
+    },
+    {
+        "start": 42330,
+        "end": 45780,
+        "captions": {
+            "en": "The fragile color of love",
+            "hanzi": [
+                "爱情",
+                "脆弱",
+                "的",
+                "颜色"
+            ],
+            "pinyin": [
+                "ài​qíng",
+                "cuì​ruò",
+                "de",
+                "yán​sè"
+            ]
+        }
+    },
+    {
+        "start": 45780,
+        "end": 49320,
+        "captions": {
+            "en": "The moment you walked away from him",
+            "hanzi": [
+                "你",
+                "走向",
+                "他",
+                "那一刻"
+            ],
+            "pinyin": [
+                "nǐ",
+                "zǒu​xiàng",
+                "tā",
+                "nà yī kè"
+            ]
+        }
+    },
+    {
+        "start": 49320,
+        "end": 52920,
+        "captions": {
+            "en": "The scene began to shake",
+            "hanzi": [
+                "画面",
+                "跟着",
+                "颤抖"
+            ],
+            "pinyin": [
+                "huà​miàn",
+                "gēn​zhe",
+                "chàn​dǒu"
+            ]
+        }
+    },
+    {
+        "start": 52920,
+        "end": 56370,
+        "captions": {
+            "en": "More merciless than missing",
+            "hanzi": [
+                "比",
+                "错过",
+                " ",
+                "残忍",
+                "的"
+            ],
+            "pinyin": [
+                "bǐ",
+                "cuò​guò",
+                " ",
+                "cán​rěn",
+                "de"
+            ]
+        }
+    },
+    {
+        "start": 56370,
+        "end": 59910,
+        "captions": {
+            "en": "It's impossible to hold back",
+            "hanzi": [
+                "是",
+                "没",
+                "可能",
+                "挽留"
+            ],
+            "pinyin": [
+                "shì",
+                "méi",
+                "kě​néng",
+                "wǎn​liú"
+            ]
+        }
+    },
+    {
+        "start": 59910,
+        "end": 63390,
+        "captions": {
+            "en": "How do you describe me",
+            "hanzi": [
+                "你",
+                "如何",
+                " ",
+                "形容",
+                "我"
+            ],
+            "pinyin": [
+                "nǐ",
+                "rú​hé",
+                " ",
+                "xíng​róng",
+                "wǒ"
+            ]
+        }
+    },
+    {
+        "start": 63390,
+        "end": 66900,
+        "captions": {
+            "en": "I sometimes also guess",
+            "hanzi": [
+                "我",
+                "偶尔",
+                "也",
+                "会",
+                "猜测"
+            ],
+            "pinyin": [
+                "wǒ",
+                "ǒu​'ěr",
+                "yě",
+                "huì",
+                "cāi​cè"
+            ]
+        }
+    },
+    {
+        "start": 66900,
+        "end": 70500,
+        "captions": {
+            "en": "Is it a friend, a passerby, or not mentioned at all",
+            "hanzi": [
+                "是",
+                "朋友",
+                " ",
+                "是",
+                "过客"
+            ],
+            "pinyin": [
+                "shì",
+                "péng​you",
+                " ",
+                "shì",
+                "guò​kè"
+            ]
+        }
+    },
+    {
+        "start": 70500,
+        "end": 73920,
+        "captions": {
+            "en": "Is it not that I can give him more",
+            "hanzi": [
+                "还是",
+                "绝口不提",
+                "呢"
+            ],
+            "pinyin": [
+                "hái​shi",
+                "jué​kǒu​bù​tí",
+                "ne"
+            ]
+        }
+    },
+    {
+        "start": 73920,
+        "end": 78840,
+        "captions": {
+            "en": "Or a more vibrant starry sky",
+            "hanzi": [
+                "是不是",
+                "我能",
+                "给",
+                "的",
+                "没",
+                "他",
+                "多"
+            ],
+            "pinyin": [
+                "shì​bù​shì",
+                "wǒ néng",
+                "gěi",
+                "de",
+                "méi",
+                "tā",
+                "duō"
+            ]
+        }
+    },
+    {
+        "start": 78840,
+        "end": 82890,
+        "captions": {
+            "en": "That will fade at dawn",
+            "hanzi": [
+                "是否",
+                "再",
+                "绚烂",
+                "的",
+                "星河"
+            ],
+            "pinyin": [
+                "shì​fǒu",
+                "zài",
+                "xuàn​làn",
+                "de",
+                "xīng hé"
+            ]
+        }
+    },
+    {
+        "start": 82890,
+        "end": 85920,
+        "captions": {
+            "en": "Heard that you did for him",
+            "hanzi": [
+                "天亮",
+                "都",
+                "要",
+                "失色"
+            ],
+            "pinyin": [
+                "tiān​liàng",
+                "dōu",
+                "yào",
+                "shī​sè"
+            ]
+        }
+    },
+    {
+        "start": 85920,
+        "end": 89010,
+        "captions": {
+            "en": "Each item is what I once longed for but couldn't get",
+            "hanzi": [
+                "听说",
+                "你",
+                "为",
+                "他",
+                "做",
+                "的"
+            ],
+            "pinyin": [
+                "tīng​shuō",
+                "nǐ",
+                "wèi",
+                "tā",
+                "zuò",
+                "de"
+            ]
+        }
+    },
+    {
+        "start": 89010,
+        "end": 93030,
+        "captions": {
+            "en": "The fireworks that I couldn't reach",
+            "hanzi": [
+                "件",
+                "件",
+                "是",
+                "我",
+                " ",
+                "曾经",
+                "求",
+                "而",
+                "不得"
+            ],
+            "pinyin": [
+                "jiàn",
+                "jiàn",
+                "shì",
+                "wǒ",
+                " ",
+                "céng​jīng",
+                "qiú",
+                "ér",
+                "bù​dé"
+            ]
+        }
+    },
+    {
+        "start": 93030,
+        "end": 96090,
+        "captions": {
+            "en": "Fell on someone else's window",
+            "hanzi": [
+                "我",
+                "够不着",
+                "的",
+                "烟火"
+            ],
+            "pinyin": [
+                "wǒ",
+                "gòu​bu​zháo",
+                "de",
+                "yān​huǒ"
+            ]
+        }
+    },
+    {
+        "start": 96090,
+        "end": 100050,
+        "captions": {
+            "en": "That night's wind",
+            "hanzi": [
+                "偏偏",
+                "降落",
+                " ",
+                "在",
+                "别人",
+                "窗口"
+            ],
+            "pinyin": [
+                "piān​piān",
+                "jiàng​luò",
+                " ",
+                "zài",
+                "bié​ren",
+                "chuāng​kǒu"
+            ]
+        }
+    },
+    {
+        "start": 100050,
+        "end": 102630,
+        "captions": {
+            "en": "Still hasn't cooled down to this day",
+            "hanzi": [
+                "那晚",
+                "的",
+                "风"
+            ],
+            "pinyin": [
+                "nà wǎn",
+                "de",
+                "fēng"
+            ]
+        }
+    },
+    {
+        "start": 102630,
+        "end": 107070,
+        "captions": {
+            "en": "Just let go",
+            "hanzi": [
+                "吹",
+                "到",
+                "今天",
+                "都",
+                "还",
+                "未凉",
+                "透"
+            ],
+            "pinyin": [
+                "chuī",
+                "dào",
+                "jīn​tiān",
+                "dōu",
+                "hái",
+                "wèi liáng",
+                "tòu"
+            ]
+        }
+    },
+    {
+        "start": 107070,
+        "end": 109710,
+        "captions": {
+            "en": "You've already held onto someone else's gentleness",
+            "hanzi": [
+                "才",
+                "松开",
+                "手"
+            ],
+            "pinyin": [
+                "cái",
+                "sōng​kāi",
+                "shǒu"
+            ]
+        }
+    },
+    {
+        "start": 109710,
+        "end": 114210,
+        "captions": {
+            "en": "Heard that you said it lightly",
+            "hanzi": [
+                "你",
+                "却",
+                "已",
+                "握紧",
+                "别的",
+                "温柔"
+            ],
+            "pinyin": [
+                "nǐ",
+                "què",
+                "yǐ",
+                "wò jǐn",
+                "bié​de",
+                "wēn​róu"
+            ]
+        }
+    },
+    {
+        "start": 114210,
+        "end": 117270,
+        "captions": {
+            "en": "Comforting him, saying I never loved you",
+            "hanzi": [
+                "听说",
+                "你",
+                "轻描淡写"
+            ],
+            "pinyin": [
+                "tīng​shuō",
+                "nǐ",
+                "qīng​miáo​dàn​xiě"
+            ]
+        }
+    },
+    {
+        "start": 117270,
+        "end": 121260,
+        "captions": {
+            "en": "The rock-solid promise",
+            "hanzi": [
+                "安慰",
+                "他",
+                "说",
+                " ",
+                "从来",
+                "没爱过",
+                "我"
+            ],
+            "pinyin": [
+                "ān​wèi",
+                "tā",
+                "shuō",
+                " ",
+                "cóng​lái",
+                "méi ài guò",
+                "wǒ"
+            ]
+        }
+    },
+    {
+        "start": 121260,
+        "end": 124320,
+        "captions": {
+            "en": "Also can't escape the tide of being submerged",
+            "hanzi": [
+                "坚如",
+                "礁石",
+                "的",
+                "承诺"
+            ],
+            "pinyin": [
+                "jiān rú",
+                "jiāo​shí",
+                "de",
+                "chéng​nuò"
+            ]
+        }
+    },
+    {
+        "start": 124320,
+        "end": 128310,
+        "captions": {
+            "en": "That night's sky",
+            "hanzi": [
+                "也",
+                "逃不过",
+                " ",
+                "潮汐",
+                "里",
+                "沉没"
+            ],
+            "pinyin": [
+                "yě",
+                "táo bù guò",
+                " ",
+                "cháo​xī",
+                "lǐ",
+                "chén​mò"
+            ]
+        }
+    },
+    {
+        "start": 128310,
+        "end": 130890,
+        "captions": {
+            "en": "Watching the sky just being painted with sunset colors",
+            "hanzi": [
+                "那晚",
+                "天空"
+            ],
+            "pinyin": [
+                "nà wǎn",
+                "tiān​kōng"
+            ]
+        }
+    },
+    {
+        "start": 130890,
+        "end": 135360,
+        "captions": {
+            "en": "You're about to leave",
+            "hanzi": [
+                "眼看",
+                "着",
+                "刚",
+                "被",
+                "日落",
+                "染色"
+            ],
+            "pinyin": [
+                "yǎn​kàn",
+                "zhe",
+                "gāng",
+                "bèi",
+                "rì​luò",
+                "rǎn​sè"
+            ]
+        }
+    },
+    {
+        "start": 135360,
+        "end": 138780,
+        "captions": {
+            "en": "Saying it's already too late",
+            "hanzi": [
+                "你",
+                "却",
+                "要",
+                "走"
+            ],
+            "pinyin": [
+                "nǐ",
+                "què",
+                "yào",
+                "zǒu"
+            ]
+        }
+    },
+    {
+        "start": 138780,
+        "end": 155190,
+        "captions": {
+            "en": "Heard that you did for him",
+            "hanzi": [
+                "说",
+                "时间",
+                "已",
+                "太晚",
+                "了"
+            ],
+            "pinyin": [
+                "shuō",
+                "shí​jiān",
+                "yǐ",
+                "tài wǎn",
+                "le"
+            ]
+        }
+    },
+    {
+        "start": 155190,
+        "end": 158700,
+        "captions": {
+            "en": "Each item is what I once longed for but couldn't get",
+            "hanzi": [
+                "你",
+                "如何",
+                " ",
+                "形容",
+                "我"
+            ],
+            "pinyin": [
+                "nǐ",
+                "rú​hé",
+                " ",
+                "xíng​róng",
+                "wǒ"
+            ]
+        }
+    },
+    {
+        "start": 158700,
+        "end": 162210,
+        "captions": {
+            "en": "The fireworks that I couldn't reach",
+            "hanzi": [
+                "我",
+                "偶尔",
+                "也",
+                "会",
+                "猜测"
+            ],
+            "pinyin": [
+                "wǒ",
+                "ǒu​'ěr",
+                "yě",
+                "huì",
+                "cāi​cè"
+            ]
+        }
+    },
+    {
+        "start": 162210,
+        "end": 165810,
+        "captions": {
+            "en": "Fell on someone else's window",
+            "hanzi": [
+                "是",
+                "朋友",
+                " ",
+                "是",
+                "过客"
+            ],
+            "pinyin": [
+                "shì",
+                "péng​you",
+                " ",
+                "shì",
+                "guò​kè"
+            ]
+        }
+    },
+    {
+        "start": 165810,
+        "end": 169230,
+        "captions": {
+            "en": "That night's wind",
+            "hanzi": [
+                "还是",
+                "绝口不提",
+                "呢"
+            ],
+            "pinyin": [
+                "hái​shi",
+                "jué​kǒu​bù​tí",
+                "ne"
+            ]
+        }
+    },
+    {
+        "start": 169230,
+        "end": 174120,
+        "captions": {
+            "en": "Still hasn't cooled down to this day",
+            "hanzi": [
+                "是不是",
+                "我能",
+                "给",
+                "的",
+                "没",
+                "他",
+                "多"
+            ],
+            "pinyin": [
+                "shì​bù​shì",
+                "wǒ néng",
+                "gěi",
+                "de",
+                "méi",
+                "tā",
+                "duō"
+            ]
+        }
+    },
+    {
+        "start": 174120,
+        "end": 178170,
+        "captions": {
+            "en": "Just let go",
+            "hanzi": [
+                "是否",
+                "再",
+                "绚烂",
+                "的",
+                "星河"
+            ],
+            "pinyin": [
+                "shì​fǒu",
+                "zài",
+                "xuàn​làn",
+                "de",
+                "xīng hé"
+            ]
+        }
+    },
+    {
+        "start": 178170,
+        "end": 181170,
+        "captions": {
+            "en": "Heard that you did for him",
+            "hanzi": [
+                "天亮",
+                "都",
+                "要",
+                "失色"
+            ],
+            "pinyin": [
+                "tiān​liàng",
+                "dōu",
+                "yào",
+                "shī​sè"
+            ]
+        }
+    },
+    {
+        "start": 181170,
+        "end": 184320,
+        "captions": {
+            "en": "Each item is what I once longed for but couldn't get",
+            "hanzi": [
+                "听说",
+                "你",
+                "为",
+                "他",
+                "做",
+                "的"
+            ],
+            "pinyin": [
+                "tīng​shuō",
+                "nǐ",
+                "wèi",
+                "tā",
+                "zuò",
+                "de"
+            ]
+        }
+    },
+    {
+        "start": 184320,
+        "end": 188310,
+        "captions": {
+            "en": "The fireworks that I couldn't reach",
+            "hanzi": [
+                "件",
+                "件",
+                "是",
+                "我",
+                " ",
+                "曾经",
+                "求",
+                "而",
+                "不得"
+            ],
+            "pinyin": [
+                "jiàn",
+                "jiàn",
+                "shì",
+                "wǒ",
+                " ",
+                "céng​jīng",
+                "qiú",
+                "ér",
+                "bù​dé"
+            ]
+        }
+    },
+    {
+        "start": 188310,
+        "end": 191400,
+        "captions": {
+            "en": "Fell on someone else's window",
+            "hanzi": [
+                "我",
+                "够不着",
+                "的",
+                "烟火"
+            ],
+            "pinyin": [
+                "wǒ",
+                "gòu​bu​zháo",
+                "de",
+                "yān​huǒ"
+            ]
+        }
+    },
+    {
+        "start": 191400,
+        "end": 195360,
+        "captions": {
+            "en": "That night's wind",
+            "hanzi": [
+                "偏偏",
+                "降落",
+                " ",
+                "在",
+                "别人",
+                "窗口"
+            ],
+            "pinyin": [
+                "piān​piān",
+                "jiàng​luò",
+                " ",
+                "zài",
+                "bié​ren",
+                "chuāng​kǒu"
+            ]
+        }
+    },
+    {
+        "start": 195360,
+        "end": 197910,
+        "captions": {
+            "en": "Still hasn't cooled down to this day",
+            "hanzi": [
+                "那晚",
+                "的",
+                "风"
+            ],
+            "pinyin": [
+                "nà wǎn",
+                "de",
+                "fēng"
+            ]
+        }
+    },
+    {
+        "start": 197910,
+        "end": 202350,
+        "captions": {
+            "en": "Just let go",
+            "hanzi": [
+                "吹",
+                "到",
+                "今天",
+                "都",
+                "还",
+                "未凉",
+                "透"
+            ],
+            "pinyin": [
+                "chuī",
+                "dào",
+                "jīn​tiān",
+                "dōu",
+                "hái",
+                "wèi liáng",
+                "tòu"
+            ]
+        }
+    },
+    {
+        "start": 202350,
+        "end": 205020,
+        "captions": {
+            "en": "You've already held onto someone else's gentleness",
+            "hanzi": [
+                "才",
+                "松开",
+                "手"
+            ],
+            "pinyin": [
+                "cái",
+                "sōng​kāi",
+                "shǒu"
+            ]
+        }
+    },
+    {
+        "start": 205020,
+        "end": 209430,
+        "captions": {
+            "en": "Heard that you said it lightly",
+            "hanzi": [
+                "你",
+                "却",
+                "已",
+                "握紧",
+                "别的",
+                "温柔"
+            ],
+            "pinyin": [
+                "nǐ",
+                "què",
+                "yǐ",
+                "wò jǐn",
+                "bié​de",
+                "wēn​róu"
+            ]
+        }
+    },
+    {
+        "start": 209430,
+        "end": 212550,
+        "captions": {
+            "en": "Comforting him, saying I never loved you",
+            "hanzi": [
+                "听说",
+                "你",
+                "轻描淡写"
+            ],
+            "pinyin": [
+                "tīng​shuō",
+                "nǐ",
+                "qīng​miáo​dàn​xiě"
+            ]
+        }
+    },
+    {
+        "start": 212550,
+        "end": 216480,
+        "captions": {
+            "en": "The rock-solid promise",
+            "hanzi": [
+                "安慰",
+                "他",
+                "说",
+                " ",
+                "从来",
+                "没爱过",
+                "我"
+            ],
+            "pinyin": [
+                "ān​wèi",
+                "tā",
+                "shuō",
+                " ",
+                "cóng​lái",
+                "méi ài guò",
+                "wǒ"
+            ]
+        }
+    },
+    {
+        "start": 216480,
+        "end": 219570,
+        "captions": {
+            "en": "Also can't escape the tide of being submerged",
+            "hanzi": [
+                "坚如",
+                "礁石",
+                "的",
+                "承诺"
+            ],
+            "pinyin": [
+                "jiān rú",
+                "jiāo​shí",
+                "de",
+                "chéng​nuò"
+            ]
+        }
+    },
+    {
+        "start": 219570,
+        "end": 223590,
+        "captions": {
+            "en": "That night's sky",
+            "hanzi": [
+                "也",
+                "逃不过",
+                " ",
+                "潮汐",
+                "里",
+                "沉没"
+            ],
+            "pinyin": [
+                "yě",
+                "táo bù guò",
+                " ",
+                "cháo​xī",
+                "lǐ",
+                "chén​mò"
+            ]
+        }
+    },
+    {
+        "start": 223590,
+        "end": 226170,
+        "captions": {
+            "en": "Watching the sky just being painted with sunset colors",
+            "hanzi": [
+                "那晚",
+                "天空"
+            ],
+            "pinyin": [
+                "nà wǎn",
+                "tiān​kōng"
+            ]
+        }
+    },
+    {
+        "start": 226170,
+        "end": 230520,
+        "captions": {
+            "en": "You're about to leave",
+            "hanzi": [
+                "眼看",
+                "着",
+                "刚",
+                "被",
+                "日落",
+                "染色"
+            ],
+            "pinyin": [
+                "yǎn​kàn",
+                "zhe",
+                "gāng",
+                "bèi",
+                "rì​luò",
+                "rǎn​sè"
+            ]
+        }
+    },
+    {
+        "start": 230520,
+        "end": 234060,
+        "captions": {
+            "en": "Saying it's already too late",
+            "hanzi": [
+                "你",
+                "却",
+                "要",
+                "走"
+            ],
+            "pinyin": [
+                "nǐ",
+                "què",
+                "yào",
+                "zǒu"
+            ]
+        }
+    },
+    {
+        "start": 234060,
+        "end": 235060,
+        "captions": {
+            "hanzi": [
+                "说",
+                "时间",
+                "已",
+                "太晚",
+                "了"
+            ],
+            "pinyin": [
+                "shuō",
+                "shí​jiān",
+                "yǐ",
+                "tài wǎn",
+                "le"
+            ]
+        }
+    }
+]
