@@ -36,7 +36,7 @@ class SearchChineseVideosController extends AbstractController {
                 return null;
             }
 
-            const { language } = req.query;
+            const { language } = req.params;
             if (!isString(language)) {
                 return this.clientError(res, 'Please provide a valid target \'language\'');
             }
